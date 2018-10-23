@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "360 photo sphere",
+"dataUrl": "360WebVRPhoto.data.unityweb",
+"asmCodeUrl": "360WebVRPhoto.asm.code.unityweb",
+"asmMemoryUrl": "360WebVRPhoto.asm.memory.unityweb",
+"asmFrameworkUrl": "360WebVRPhoto.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
